@@ -1,2 +1,1 @@
-# Movie-project
-This is a great full-stack take-home project. I’ll give you a complete, ready-to-implement blueprint: schema, backend code (Express + Prisma + Zod), frontend code (Vite + React + TypeScript + Tailwind + shadcn/MUI-compatible snippets)
+This folder contains the React components: FavoriteTable, FavoriteForm, ConfirmDialog.
